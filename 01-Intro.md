@@ -51,5 +51,5 @@ Some of the infrastructure needed around an ATS is:
 
 Building an automated trading system is a lot of complex work. That alone puts the individual trader and investor at a big disadvantage given the amount of time or resources she would have to put on to build all the required infrastructure around an ATS.
 
-There are hosted solutions such as Quantopian (python based) and Quantconnect (C# based), with partially open sourced components.
+There are hosted solutions such as Quantopian (python based) and Quantconnect (C# based), with partially open sourced components. Here I want to set the first stone in having a typesafe, permissive open source trading system framework to build automated trading strategies, optimize portfolios and analyze securitiest.
 
