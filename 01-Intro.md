@@ -1,5 +1,5 @@
 # Building a trading system in Scala
-Author: [@plarroy](http://twitter.com/plarroy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shields_io.svg?style=social)](http://twitter.com/plarroy)
 <span class="badge-paypal"><a
 href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6SLKKT7NJUVM6"
 title="Donate to this project using Paypal"><img
