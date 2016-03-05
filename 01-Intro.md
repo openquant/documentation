@@ -1,4 +1,10 @@
 # Building a trading system in Scala
+Author: [@plarroy](http://twitter.com/plarroy)
+<span class="badge-paypal"><a
+href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6SLKKT7NJUVM6"
+title="Donate to this project using Paypal"><img
+src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
+
 
 This will be the first post in a series of posts describing how I'm building an automated trading system mostly in Scala but with Python interoperability, either via the Jython interpreter or by using standard data formats that can be readily used from Python.
 
@@ -51,5 +57,5 @@ Some of the infrastructure needed around an ATS is:
 
 Building an automated trading system is a lot of complex work. That alone puts the individual trader and investor at a big disadvantage given the amount of time or resources she would have to put on to build all the required infrastructure around an ATS.
 
-There are hosted solutions such as Quantopian (python based) and Quantconnect (C# based), with partially open sourced components. Here I want to set the first stone in having a typesafe, permissive open source trading system framework to build automated trading strategies, optimize portfolios and analyze securitiest.
+There are hosted solutions such as Quantopian (python based) and Quantconnect (C# based), with partially open sourced components. Here I want to set the first stone in having a typesafe, permissive open source trading system framework to build automated trading strategies, optimize portfolios and analyze securities.
 
